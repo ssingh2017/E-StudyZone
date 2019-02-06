@@ -18,22 +18,32 @@ Modules:-
 12.  Captcha Code Generator 
 
 Software Requirement Specification:-
+
   Programming Language Support
+  
     •	Java for JSP
+    
   Server side Software Requirement
+  
     •	IDE- NetBeans 8.0
     •	J2EE Technology
     •	Oracle 11g
     •	Apache Tomcat 8.0
+  
   Client side Software Requirement
+  
     •	Google Chrome Browser
     •	Operating System
+  
   Front-end Tool
+  
     •	HTML
     •	CSS
     •	JavaScript
     •	BootStrap
+  
   Back-end Tool
+  
     •	JSP 
 
 
